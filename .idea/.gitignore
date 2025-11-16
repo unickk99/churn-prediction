@@ -1,3 +1,46 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+# Virtual environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Data files
+*.csv
+*.xlsx
+*.parquet
+
+# Model files
+*.h5
+*.pkl
+*.joblib
+
+# Build
+dist/
+build/
+
+#data
+data/
+/data/
+data\netflix_clean.csv
+\data\netflix_clean.csv
+data\
+\data\
